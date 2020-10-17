@@ -11,4 +11,4 @@ bash <(curl -sL https://u.huhu.blue/powerful.sh)
 ```
 
 
-![]()
+![pic](./gg.png)
